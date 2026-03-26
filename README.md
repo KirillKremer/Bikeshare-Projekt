@@ -22,3 +22,7 @@ Das Programm berechnet anschließend statistische Kennzahlen.
 
 ## Ergebnis
 Ermittlung von häufigsten Nutzungszeiten und Trends.
+
+## Quelle
+Das Projekt basiert auf einer Aufgabenstellung aus einem Udacity-Kurs.  
+Die Umsetzung des Programms erfolgte eigenständig.
