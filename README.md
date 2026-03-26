@@ -7,6 +7,12 @@ Dieses Projekt analysiert Bikeshare-Daten aus verschiedenen Städten.
 - Python
 - Pandas
 
+## Daten
+
+Die verwendeten Datensätze sind aufgrund ihrer Größe nicht im Repository enthalten.
+
+Bei Interesse können die Daten auf Anfrage bereitgestellt werden.
+
 ## Ziel
 Analyse von Nutzungsdaten und Ermittlung von Mustern.
 
